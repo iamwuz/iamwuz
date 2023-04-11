@@ -1,4 +1,5 @@
 ### Hi there 👋
+<div align="center"> <img src="https://metrics.lecoq.io/iamwuz?template=classic&config.timezone=Asia%2FShanghai"> </div>
 🌱 I’m currently learning <span style="color:orange;">C++、HTML</span><br>
 
 <!--
