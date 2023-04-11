@@ -1,12 +1,12 @@
-### Hi there 👋
-<div align="center"> <img src="https://metrics.lecoq.io/iamwuz?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
+<div align="left"> <img src="https://metrics.lecoq.io/iamwuz?template=classic&config.timezone=Asia%2FShanghai"> </div>
 🌱 I’m currently learning <span style="color:orange;">C++、HTML</span><br>
 
 <!--
 **iamwuz/iamwuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
