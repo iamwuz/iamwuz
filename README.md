@@ -1,11 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning <span style="color:orange;">C++、HTML</span><br>
-👯 I’m looking to collaborate on ...<br>
-🤔 I’m looking for help with ...<br>
-💬 Ask me about ...<br>
-📫 How to reach me: ...<br>
-😄 Pronouns: ...<br>
-⚡ Fun fact: ...<br>
+🌱 <h1>I’m currently learning <span style="color:orange;">C++、HTML</span><br><h1>
 
 <!--
 **iamwuz/iamwuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
