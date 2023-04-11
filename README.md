@@ -5,7 +5,7 @@
 -->
 <html>
     <head>
-        <style>
+        <style type="text/css">
             #main{width:100%;height:0 auto;}
             #left{width:40%;height:100%;}
             #right{width:60%;height:100%;}
@@ -22,7 +22,6 @@
         </div>
     </body>
 </html>
-
 
 <!--
 <div align="left"> <img src="https://metrics.lecoq.io/iamwuz?template=classic&config.timezone=Asia%2FShanghai"> </div>
