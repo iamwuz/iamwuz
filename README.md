@@ -1,4 +1,5 @@
 ### Hi👋 I am <a href="http://www.wuzq.fun">wuz</a>&nbsp;&nbsp;<img style="width:27px;" src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"></img>
+<!--
 <div align="left"> <img src="https://metrics.lecoq.io/iamwuz?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <br><br>
 <div align="left" dir="auto">
@@ -7,6 +8,7 @@
     <a href="https://space.bilibili.com/349210173/" rel="nofollow" target="_blank"><img src="https://camo.githubusercontent.com/b1eef5b46962c08cac3e579d9295ed12752bf058de1a30260d17664a23b5e94f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f42696c6962696c692d42e7ab992d666636396234" data-canonical-src="https://img.shields.io/badge/Bilibili-B站-ff69b4" style="max-width: 100%;"></a> 
     <a href="https://blog.csdn.net/qq_35763045" rel="nofollow" target="_blank"><img src="https://camo.githubusercontent.com/6d46a09f75cd1296ac40b6403c33cc4be64e85200516b7d575ad8eddbdbd2eea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353444e2de8aebae59d9b2d633332313336" data-canonical-src="https://img.shields.io/badge/CSDN-论坛-c32136" style="max-width: 100%;"></a> 
   </div>
+-->
 
 <!--
 **iamwuz/iamwuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
