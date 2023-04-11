@@ -1,5 +1,29 @@
+<!--
 ### Hi👋 I am <a href="http://www.wuzq.fun">wuz</a>&nbsp;&nbsp;<img style="width:27px;" src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"></img>
 <div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=iamwuz&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&theme=defaultValue" /> </div>
+
+-->
+<html>
+    <head>
+        <style>
+            #main{width:100%;height:0 auto;}
+            #left{width:40%;height:100%;}
+            #right{width:60%;height:100%;}
+        </style>
+    </head>
+    <body>
+        <div id="main">
+            <div id="left">
+                ### Hi👋 I am <a href="http://www.wuzq.fun">wuz</a>&nbsp;&nbsp;<img style="width:27px;" src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"></img>
+            </div>
+            <div id="right">
+                <div align="left"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=iamwuz&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&theme=defaultValue" ></div>
+            </div>
+        </div>
+    </body>
+</html>
+
+
 <!--
 <div align="left"> <img src="https://metrics.lecoq.io/iamwuz?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <br><br>
