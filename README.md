@@ -1,4 +1,4 @@
-### Hi👋 I am <a href="http://www.wuzq.fun">wuz</a><img style="width:27px;"src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"></img>
+### Hi👋 I am <a href="http://www.wuzq.fun">wuz</a><img style="width:27px;" src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"></img>
 <div align="left"> <img src="https://metrics.lecoq.io/iamwuz?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <br><br>
 <div align="left" dir="auto">
