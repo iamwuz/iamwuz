@@ -1,4 +1,4 @@
-
+### Hi👋 I am <a href="http://www.wuzq.fun">wuz</a>https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif
 <div align="left"> <img src="https://metrics.lecoq.io/iamwuz?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <br><br>
 <div align="left" dir="auto">
@@ -12,7 +12,7 @@
 **iamwuz/iamwuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-### Hi there 👋
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
