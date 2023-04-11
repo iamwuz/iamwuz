@@ -1,5 +1,5 @@
 <!--
-### Hi👋 I am <a href="http://www.wuzq.fun">wuz</a>&nbsp;&nbsp;<img style="width:27px;" src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"></img>
+### Hi👋 I am <a href="http://www.wuzq.fun">wuz</a>&nbsp;&nbsp;<img style="width:27px;" src="[https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif](https://camo.githubusercontent.com/54b15c13066538aeef612257b5f375cae945e020f1aade4a5527165b019e1578/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f6d616e5f72756e2e706e67)"></img>
 <div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=iamwuz&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&theme=defaultValue" /> </div>
 
 -->
