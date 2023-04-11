@@ -4,7 +4,7 @@
 
 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=iamwuz&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
-<h2>  Hey 👋, I'm <a href="http://www.wuzq.fun" target="_blank">Wuz ckang</a>! <img src="https://camo.githubusercontent.com/54b15c13066538aeef612257b5f375cae945e020f1aade4a5527165b019e1578/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f6d616e5f72756e2e706e67" width="38px"></h2>
+<h2>  Hey 👋, I'm <a href="http://www.wuzq.fun" target="_blank">Wuz ckang</a>! <img src="https://camo.githubusercontent.com/2402c91bb9dbc72d3e5652ce7b3e634c36a6689c09673e9829b7bd274c2099c6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f6378796475636b2e676966" width="38px"></h2>
 <p>- 👨‍💻 Front back left right end engineer </p>
 <p>- 👨‍🎓 A lifelong learner who likes thinking </p>
 
