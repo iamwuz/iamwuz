@@ -1,4 +1,6 @@
 ### Hi👋 I am <a href="http://www.wuzq.fun">wuz</a>&nbsp;&nbsp;<img style="width:27px;" src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"></img>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=iamwuz&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=iamwuz&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&theme=defaultValue" /> </div>
 <!--
 <div align="left"> <img src="https://metrics.lecoq.io/iamwuz?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <br><br>
