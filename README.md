@@ -3,25 +3,15 @@
 <div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=iamwuz&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&theme=defaultValue" /> </div>
 
 -->
-<html>
-    <head>
-        <style type="text/css">
-            #main{width:100%;height:0 auto;}
-            #left{width:40%;height:100%;}
-            #right{width:60%;height:100%;}
-        </style>
-    </head>
-    <body>
-        <div id="main">
-            <div id="left">
-                ### Hi👋 I am <a href="http://www.wuzq.fun">wuz</a>&nbsp;&nbsp;<img style="width:27px;" src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"></img>
-            </div>
-            <div id="right">
-                <div align="left"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=iamwuz&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&theme=defaultValue" ></div>
-            </div>
-        </div>
-    </body>
-</html>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=iamwuz&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+<h2>  Hey 👋, I'm <a href="http://www.wuzq.fun" target="_blank">Simon Ma</a>! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2>
+<p>- 👨‍💻 Front back left right end engineer </p>
+<p>- 👨‍🎓 A lifelong learner who likes thinking </p>
+
+![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+![ViewCount](https://views.whatilearened.today/views/github/Tomotoes/Tomotoes.svg?cache=remove)
+
 
 <!--
 <div align="left"> <img src="https://metrics.lecoq.io/iamwuz?template=classic&config.timezone=Asia%2FShanghai"> </div>
