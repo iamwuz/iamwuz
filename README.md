@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning <b>C++、HTML<b><br>
+🌱 I’m currently learning <b>C++、HTML</b><br>
 👯 I’m looking to collaborate on ...<br>
 🤔 I’m looking for help with ...<br>
 💬 Ask me about ...<br>
