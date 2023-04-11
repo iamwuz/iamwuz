@@ -1,6 +1,6 @@
 
 <div align="left"> <img src="https://metrics.lecoq.io/iamwuz?template=classic&config.timezone=Asia%2FShanghai"> </div>
-🌱 I’m currently learning <span style="color:orange;">C++、HTML</span><br>
+<div align="bottom"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
 
 <!--
 **iamwuz/iamwuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
