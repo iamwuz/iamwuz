@@ -3,7 +3,6 @@
 <div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=iamwuz&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&theme=defaultValue" /> </div>
 
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=iamwuz&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
 <h2> III'm <a href="http://www.wuzq.fun" target="_blank">Wu2_9ianG</a> </h2>
 <p>- 👨‍💻 Front back left right end engineer </p>
 <p>- 👨‍🎓 A lifelong learner who likes thinking </p>
